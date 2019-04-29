@@ -1,0 +1,6 @@
+
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-folder-open:before { content: '\e801'; } /* '' */
+.icon-briefcase:before { content: '\e802'; } /* '' */
+.icon-vcard:before { content: '\e803'; } /* '' */
+.icon-user-circle-o:before { content: '\f2be'; } /* '' */
